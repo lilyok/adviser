@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Do a job market research and collect the candidate requirements in the desired vacancies.",
+        "references": {
+            "info": "There are many job search platforms available. And your choice depends more on your target country. I'll mention the global platform:",
+            "links": [
+                {
+                    "link": "https://www.linkedin.com/jobs/search/?keywords=",
+                    "description": "The platform is mainly used for professional networking, and allows job seekers to post their CVs and employers to post jobs. You need to register and create your cv profile."
+                }
+            ]
+        }
+    },
+    {
+        "title": "Prepare for behavioral questions.",
+        "references": {
+            "info": "You are going to program, but your soft skills and non-technical experience are also very important for the employer:",
+            "links": [
+                {
+                    "link": "https://devskiller.com/45-behavioral-questions-to-use-during-non-technical-interview-with-developers/",
+                    "description": "This is just one of the online resources with a list of questions of this kind. But that's enough. (I hope)"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Prepare for system design interview.",
+        "references": {
+            "info": "If you are not a graduate, then it is very possible that you will have system design interview:",
+            "links": [
+                {
+                    "link": "https://github.com/donnemartin/system-design-primer",
+                    "description": "This is a very well-known resource. But it is very complex. I recommend that you first watch the video with sample interviews to understand where to start"
+                },
+                {
+                    "link": "https://github.com/donnemartin/systemI recommend start with this video-design-primer",
+                    "description": ""
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=q0KGYwNbf-0&t=349s",
+                    "description": "or this one"
+                }
+
+            ]
+        }
+    },
+    {
+        "title": "Prepare for coding interview.",
+        "references": {
+            "info": "I recommend two resources. One of them is free, but the other is more suitable for preparing for an interview:",
+            "links": [
+                {
+                    "link": "https://www.hackerrank.com/interview/interview-preparation-kit",
+                    "description": "This is free but doesn't have time restriction and some of the tasks is too difficult for interview. But if you are stuck, you can use the Discussion and Editorial sections for hints and solutions."
+                },
+                {
+                    "link": "https://leetcode.com/explore/interview/",
+                    "description": "It has no problems like the previous resource, and it has special training kits for certain companies, but these are paid options."
+                }
+            ]
+        }
+    },
+    {
+    	"title": "Make sure you have specific knowledge.",
+        "references": {
+            "info": "It depends on your specialization the target company and the specific vacancy:",
+            "links": [
+                {
+                    "link": "",
+                    "description": "Check that you meet the requirements from your job market."
+                },
+                {
+                    "link": "",
+                    "description": "I won't recommend anything because I don't know your specialty. And you, as a professional, can find the best resources."
+                }
+            ]
+        }
+    },
+    {
+    	"title": "Read!",
+        "references": {
+            "info": "I think you know or can find more books to improve your skills, but I would encourage you to read or at least look through this one:",
+            "links": [
+                {
+                    "link": "https://www.crackingthecodinginterview.com/",
+                    "description": "This book is more suitable for preparing for an interview in large (FAANG) companies, but it can be useful for startup candidates."
+                }
+            ]
+        }
+    }
+
+]

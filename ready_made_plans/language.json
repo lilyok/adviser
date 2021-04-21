@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Listen to podcast",
+        "references": {
+            "info": "You can find many podcasts for your chosen language. Try out different podcasts and regularly listen to the most interesting ones for you:",
+            "links": [
+                {
+                    "link": "https://podcasts.apple.com",
+                    "description": "Podcasts is a media player application developed by Apple Inc. for playing podcasts."
+                }
+            ]
+        }
+    },
+    {
+        "title": "Use clubhouse to improve your language",
+        "references": {
+            "info": "I think you can find something that can fit your needs. But I can share my preferences:",
+            "links": [
+                {
+                    "link": "https://www.joinclubhouse.com/club/thelingolobby",
+                    "description": "The largest and leading language club on Clubhouse. 70+ languages practiced, 90k+ community."
+                }
+            ]
+        }
+    },
+    {
+        "title": "Read an English book for your level",
+        "references": {
+            "info": "The best way to learn different expressions is to read books:",
+            "links": [
+                {
+                    "link": "https://lingualeo.com/jungle/books",
+                    "description": "It is the resource with graded books where you have to choose your native and target language. Also, it's a great app(you can find it in the [AppStore][https://apps.apple.com/us/app/english-with-lingualeo/id480952151] ) and a service that can help you learn different languages."
+                }
+            ]
+        }
+    },
+    {
+        "title": "Take a lesson with a teacher",
+        "references": {
+            "info": "Self-study is good, but an experienced mentor is even better:",
+            "links": [
+                {
+                    "link": "https://www.italki.com/",
+                    "description": "Choose from over 10,000 teachers for 1-on-1 lessons based on your goals and interests."
+                }
+            ]
+        } 
+    },
+    {
+        "title": "Use spaced repetition to build vocabulary.",
+        "references": {
+            "info": "There's only one way to remember something. This is a repetition:",
+            "links": [
+                {
+                    "link": "https://quizlet.com/",
+                    "description": "Learning games and flashcards."
+                }
+            ]
+        }     
+    },
+    {
+        "title": "Check your current level",
+        "references": {
+            "info": "Check your level from time to time to see your progress and find weaknesses:",
+            "links": [
+                {
+                    "link": "https://www.languagecoursesuk.co.uk/language-level-test/",
+                    "description": "Free online tests for different languages."
+                }
+            ]
+        }     
+    }
+]

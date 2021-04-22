@@ -6,7 +6,7 @@
             "links": [
                 {
                     "link": "https://www.linkedin.com/jobs/search/?keywords=",
-                    "description": "The platform is mainly used for professional networking, and allows job seekers to post their CVs and employers to post jobs. You need to register and create your cv profile."
+                    "description": "LinkedIn is the platform is mainly used for professional networking, and allows job seekers to post their CVs and employers to post jobs. You need to register and create your cv profile."
                 }
             ]
         }
@@ -33,11 +33,11 @@
                     "description": "This is a very well-known resource. But it is very complex. I recommend that you first watch the video with sample interviews to understand where to start"
                 },
                 {
-                    "link": "https://github.com/donnemartin/systemI recommend start with this video-design-primer",
-                    "description": ""
+                    "link": "https://www.youtube.com/watch?v=0163cssUxLA",
+                    "description": "I recommend start with this video-design-primer"
                 },
                 {
-                    "link": "https://www.youtube.com/watch?v=q0KGYwNbf-0&t=349s",
+                    "link": "https://www.youtube.com/watch?v=q0KGYwNbf-0",
                     "description": "or this one"
                 }
 

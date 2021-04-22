@@ -28,12 +28,8 @@ PLANS_PATH = 'ready_made_plans'
 
 @app.route('/api')
 def api():
-    topic = request.args.get('topic')
+    topic = request.args.get('topic') or 'topic_list'
     sort_func = lambda data: (sorted(data, key=lambda x: x['title']))
-
-    if topic is None:
-        topic = 'topic_list'
-        sort_func = lambda data: (sorted(data.items(), key=lambda x: x[0]))
 
     try:
         with open(f'{PLANS_PATH}/{topic}.json', mode='r') as json_file:

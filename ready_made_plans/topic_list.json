@@ -1,5 +1,14 @@
-{
-    "Coding Interview Preparation Kit": "code_interview",
-    "English Language Preparation Kit": "english",
-    "Language Preparation Kit(general tips)": "language"
-}
+[
+    {
+        "title": "Coding Interview Preparation Kit",
+        "link": "code_interview"
+    },
+    {
+        "title": "English Language Preparation Kit",
+        "link": "english"
+    },
+    {
+        "title": "Language Preparation Kit(general tips)",
+        "link": "language"
+    }
+]

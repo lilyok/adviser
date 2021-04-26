@@ -1,14 +1,17 @@
 [
     {
         "title": "Coding Interview Preparation Kit",
-        "link": "code_interview"
+        "link": "code_interview",
+        "version": "0.0"
     },
     {
         "title": "English Language Preparation Kit",
-        "link": "english"
+        "link": "english",
+        "version": "0.0"
     },
     {
         "title": "Language Preparation Kit(general tips)",
-        "link": "language"
+        "link": "language",
+        "version": "0.0"
     }
 ]

@@ -1,0 +1,72 @@
+[
+    {
+        "title": "0. Practice drawing simple things!",
+        "references": {
+            "info": "Practice with self-study textbooks:",
+            "links": [
+                {
+                    "link": "https://www.amazon.co.uk/You-Can-Draw-30-Days-ebook/dp/B06XCZHG9H",
+                    "description": "Mark Kistler \"You Can Draw in 30 Days\". Quick and easy step-by-step instructions for drawing everything from simple spheres to apples, trees, buildings, and the human hand and face."
+                }
+            ]
+        }
+    },
+    {
+        "title": "1. Add shading to your drawings!",
+        "references": {
+            "info": "Practice with self-study textbooks:",
+            "links": [
+                {
+                    "link": "https://www.amazon.co.uk/Drawing-Dimension-Techniques-Teachers-Students-ebook/dp/B0758JMNKN",
+                    "description": "Drawing Dimension - A Shading Guide for Teachers and Students offers a series of shading tutorials that are easy to understand and simple to follow."
+                }
+            ]
+        }
+    },
+    {
+        "title": "2. Learn how to draw perspective!",
+        "references": {
+            "info": "Practice with self-study textbooks:",
+            "links": [
+                {
+                    "link": "https://www.amazon.co.uk/Drawing-Perspective-Space-Basic-Principles/dp/1540361632",
+                    "description": "Markus Sebastian Agerer \"Drawing Perspective & Space: Basic Principles of Drawing in Perspective\" offers many vivid examples and exercises about perspective drawing. In this way you will learn to use the technique of drawing in perspective quickly."
+                },
+                {
+                    "link": "https://www.amazon.co.uk/How-Draw-Drawing-Sketching-Environments/dp/1933492732",
+                    "description": "Scott Robertson \"How to Draw: Drawing and Sketching Objects and Environments\" is useful to the novice, the student and the professional. You will learn how to draw any object or environment from your imagination, starting with the most basic perspective drawing skills."
+                }
+            ]
+        }
+    },
+    {
+        "title": "3. Try to draw specific things!",
+        "references": {
+            "info": "Practice with self-study textbooks:",
+            "links": [
+                {
+                    "link": "https://www.amazon.co.uk/How-Draw-Faces-Complete-Scratch-ebook/dp/B07TTJGNGY",
+                    "description": "Jasmina Susak \"How to Draw Faces: Learn to Draw People from Complete Scratch\" teaches how to draw proportional, realistic portraits in this easy to follow, step-by-step tutorial."
+                },
+                {
+                    "link": "https://www.amazon.co.uk/How-Draw-People-Step-step/dp/1440353166",
+                    "description": "Jeff Mellem \"How to Draw People: Step-by-step lessons for figures and poses\" teaches how to draw an anatomical figure, you don't need a stack of weighty anatomy books. Just take it step by step!"
+                },
+                {
+                    "link": "https://www.amazon.co.uk/Laws-Guide-Nature-Drawing-Journal/dp/1597143154",
+                    "description": "John Muir Laws \"The Laws Guide to Nature Drawing and Journaling\". In straightforward text complemented by step-by-step illustrations, dozens of exercises lead the hand and mind through creating accurate reproductions of plants and animals as well as landscapes, skies, and more."
+                },
+                {
+                    "link": "https://www.amazon.co.uk/Draw-Trucks-Motorcycles-Step-Step-ebook/dp/B0081UUTN4",
+                    "description": "Lee J. Ames \"Draw 50 Cars, Trucks, and Motorcycles\" shows artists of all levels how to draw with ease by following simple step-by-step examples."
+                },
+                {
+                    "link": "https://www.amazon.co.uk/DragonArt-Fantastic-Dragons-Fantasy-Creatures/dp/1581806574",
+                    "description": "Jessica Peffer \"DragonArt: How to Draw Fantastic Dragons and Fantasy Creatures\" will help you create mythical beasts that awe, delight, and disturb the sweet dreams of little ones."
+                }
+                   
+                   
+            ]
+        }
+    }
+]

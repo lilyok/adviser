@@ -1,0 +1,79 @@
+[
+    {
+        "title": "0. Learn the Chords",
+        "references": {
+            "info": "There may be different approaches:",
+            "links": [
+                {
+                    "link": "https://apps.apple.com/us/app/guitartuna-guitar-bass-tuner/id527588389",
+                    "description": "GuitarTuna (AppStore app): Guitar, Bass tuner. In addition to the tuner the app has the tools: Ear training, chord guide, games, and exercises."
+                },
+                {
+                    "link": "https://www.libertyparkmusic.com/guitar-chord-shapes-beginner-to-advanced",
+                    "description": "Guitar Chords: How to Progress from Beginner to Advanced Chord Shapes. It is an article with chord diagrams."
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=yh6sPqDEZCY",
+                    "description": "Super Easy First Guitar Lesson - Guitar Lessons For Beginner."
+                }
+
+            ]
+        }
+    },
+    {
+        "title": "2. Pick Pop-songs That Are Adapted For Easy Learning",
+        "references": {
+            "info": "You can find it in the internet. I'll just give you an example:",
+            "links": [
+                {
+                    "link": "https://www.musictoyourhome.com/blog/8-easy-guitar-songs-for-every-beginner",
+                    "description": "8 easy guitar songs for every beginner."
+                }
+            ]
+        }
+    },
+    {
+        "title": "1. Learn How To Change Chords And Transition",
+        "references": {
+            "info": "Daily practice and the internet will help you cope with this:",
+            "links": [
+            	{
+                    "link": "https://yourguitarbrain.com/10-step-how-to-change-chords-faster-easier-smoother/",
+                    "description": "10 Step How To Change Chords Faster. Advices and exercises."
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=VaegrntyEgk",
+                    "description": "YouTube video: Change Chords FASTER on Guitar for Beginners."
+                }
+            ]
+        }
+    },
+    {
+        "title": "3. Bars and Beats",
+        "references": {
+            "info": "YouTube can be very useful, because you should see it:",
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=xMQ5pCmauvc",
+                    "description": "The Beat - Beginners Course."
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=crtW9DkgVxE",
+                    "description": "Bars and Beats - Beginners Course."
+                }
+            ]
+        }
+    },
+    {
+        "title": "4. Try to play something for the intermediate level",
+        "references": {
+            "info": "It will be great if you try to play music that you like",
+            "links": [
+                {
+                    "link": "",
+                    "description": "It will be great if you try to play music that you really like!"
+                }
+            ]
+        }
+    }
+ ]

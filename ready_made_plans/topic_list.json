@@ -13,5 +13,25 @@
         "title": "Language Preparation Kit(general tips)",
         "link": "language",
         "version": "0.0"
+    },
+    {
+        "title": "Italian Language Preparation Kit",
+        "link": "italian",
+        "version": "0.0"
+    },
+    {
+        "title": "Art Preparation Kit (start drawing!)",
+        "link": "art",
+        "version": "0.0"
+    },
+    {
+        "title": "The Game Of Chess Preparation Kit",
+        "link": "chess",
+        "version": "0.0"
+    },
+    {
+        "title": "Guitar Training Kit (start playing the guitar!)",
+        "link": "guitar",
+        "version": "0.0"
     }
 ]

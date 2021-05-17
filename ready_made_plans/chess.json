@@ -1,0 +1,82 @@
+[
+    {
+        "title": "1. Learn how the Chess Pieces Move",
+        "references": {
+            "info": "Basic moves:",
+            "links": [
+                {
+                    "link": "https://www.wholesalechess.com/pages/new-to-chess/pieces.html",
+                    "description": "This resource contains explanations with illustrations."
+                }
+            ]
+        }
+    },
+    {
+        "title": "0. Learn chess terms",
+        "references": {
+            "info": "Chess terms every beginner should know:",
+            "links": [
+                {
+                    "link": "https://www.unimelb.edu.au/community/stay-connected/clubs-and-societies/guide-to-chess-terms",
+                    "description": "Thinking of trying your hand at chess but a bit intimidated by all these strange terms you hear thrown around? This handy guide will have you talking chess like a grandmaster in no time."
+                }
+            ]
+        }
+    },
+    {
+        "title": "2. Read about phases of the game.",
+        "references": {
+            "info": "Read it:",
+            "links": [
+                {
+                    "link": "https://www.chessstrategyonline.com/content/tutorials/basic-chess-concepts-phases-of-the-game",
+                    "description": "Concise information about phases of the game."
+                }
+            ]
+        }
+    },
+    {
+        "title": "4. Practice!",
+        "references": {
+            "info": "Use modern opportunities to practice the game:",
+            "links": [
+                {
+                    "link": "https://www.chess.com/play",
+                    "description": "Chess.com. Try playing an online chess game against a top chess computer or another player."
+                },
+                {
+                    "link": "https://apps.apple.com/us/app/chess-play-learn/id329218549",
+                    "description": "Chess - Play & Learn.The same service but for iOS. Play chess online with millions of players around the world! "
+                }
+            ]
+        }
+    },
+    {
+        "title": "3. Learn specific strategies!",
+        "references": {
+            "info": "",
+            "links": [
+                {
+                    "link": "https://www.chessstrategyonline.com/content/books/the-international-chess-congress-st-petersburg-1909",
+                    "description": "The international chess congress, St. Petersburg, 1909."
+                },
+                {
+                    "link": "https://www.youtube.com/c/ChessTalk",
+                    "description": "YouTube channel \"ChessTalk\". This channel is designed to provide training on various aspects of chess like openings, gambits, strategies, tactics, game plans, chess basics and rules, secret tips, tricks, traps, chess ideas, hacks, variations, middlegame/endgame plans, advanced moves, positional play, attacks etc. "
+                },
+                {
+                    "link": "https://www.youtube.com/c/GothamChess",
+                    "description": "YouTube channel \"GothamChess\". The author is an International Master from New York City. Different playlists of chess videos: openings, strategy, rating climb, tactics guides, and recaps of big tournaments."
+                },
+                {
+                    "link": "https://www.youtube.com/c/chess",
+                    "description": "YouTube channel \"Chess.com\". Video authors include World Champion Magnus Carlsen, U.S. Champion Hikaru Nakamura, Chief Chess Officer of Chess.com Daniel Rensch, chess commentator and GM Robert Hess, Women's World Chess Champion Alexandra Kosteniuk, and many more."
+                },
+                {
+                    "link": "https://www.youtube.com/c/GMIgorSmirnov",
+                    "description": "YouTube channel \"Remote Chess Academy\" contains video lessons from Grandmaster Igor Smirnov and several other GMs."
+                }
+            ]
+        }
+    }
+]
